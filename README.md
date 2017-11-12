@@ -13,7 +13,9 @@ When running the software:
     
     2. Select the file you want.
     
-    3. At this point the software calculates salaries for each of the working shifts on the list (this will be printed on the "Data"-tab) 
-    and also the total monthly salary (this will be printed on the "Salary calculations"-tab).
+    3. At this point the software calculates salaries for each of the working shifts on the list 
+    (this will be printed on the "Data"-tab) and also the total monthly salary (this will be printed 
+    on the "Salary calculations"-tab).
     
-    4. Pressing the "Save monthly salaries as a .csv file"-button will let you save result in the "Salary calculations"-tab to an .csv file.
+    4. Pressing the "Save monthly salaries as a .csv file"-button will let you save result in the 
+    "Salary calculations"-tab to an .csv file.
